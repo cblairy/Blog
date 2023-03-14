@@ -1,5 +1,7 @@
 ## Blog
 
+Ce mini-projet avait pour but d'apprendre à creer un CRUD, une authentification et une connexion des utilisateurs en PHP.
+
 # Technos et outils utilisés:
 
 - php
