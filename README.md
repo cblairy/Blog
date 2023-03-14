@@ -4,6 +4,7 @@ Ce mini-projet avait pour but d'apprendre à creer un CRUD, une authentification
 
 # Technos et outils utilisés:
 
+- docker
 - php
 - sql
 - pdo
